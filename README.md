@@ -7,6 +7,7 @@
 * I create my GitHub account and I tried to understand it as much as possible.
 ---
  ***Task_1***                                  Finished
+ ![Alt text](https://github.com/Eugene50/kottans_frontend/blob/master/task_03/Intro_to_HTML_and_CSS.png)
 
 * I learned powerful Linux command line.
 * Make configuring linux web server, was very exciting experience.
