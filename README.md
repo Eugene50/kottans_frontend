@@ -7,13 +7,15 @@
 * I create my GitHub account and I tried to understand it as much as possible.
 ---
  ***Task_1***                                  Finished
- ![Alt text](https://github.com/Eugene50/kottans_frontend/blob/master/task_03/Intro_to_HTML_and_CSS.png)
+ ![Linux, Command Line, HTTP Tools](https://github.com/Eugene50/kottans_frontend/blob/master/task_1/course_1.png)
 
 * I learned powerful Linux command line.
 * Make configuring linux web server, was very exciting experience.
 * Learned many interesting thing about **TCP/IP**, and **HTTP** protocol.
 ---
 ***Task_2***                                Finished
+ ![VCS (hello gitty), GitHub and Collaboration](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/GitHub%20%26%20Collaboration.png,
+ https://github.com/Eugene50/kottans_frontend/blob/master/task_02/What%20is%20Version%20Control.png)
 
 
 * I confirmed my skill in Git and GitHub.
@@ -23,6 +25,7 @@
 
 ***Task_3***                                  Finished
 
+![Intro_to_HTML_and_CSS](https://github.com/Eugene50/kottans_frontend/blob/master/task_03/Intro_to_HTML_and_CSS.png)
 
 * My first deep intro to **HTML & CSS**.
 * I learned many interesting features of CSS and responsive design.
