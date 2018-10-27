@@ -14,9 +14,10 @@
 * Learned many interesting thing about **TCP/IP**, and **HTTP** protocol.
 ---
 ***Task_2***                                Finished
- ![VCS (hello gitty), GitHub and Collaboration](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/GitHub%20%26%20Collaboration.png,
- https://github.com/Eugene50/kottans_frontend/blob/master/task_02/What%20is%20Version%20Control.png)
+ 
+ ![GitHub and Collaboration](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/GitHub%20%26%20Collaboration.png)
 
+![What is Version Control](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/What%20is%20Version%20Control.png)
 
 * I confirmed my skill in Git and GitHub.
 * I know how to use the options of Git for good collaboration.
@@ -34,13 +35,14 @@
 
 ***Task_4***                                  Finished
 
+![Responsive_Web_Design_Fundamentals](https://github.com/Eugene50/kottans_frontend/blob/master/task_04/Responsive_Web_Design_Fundamentals.png)
 
 * I got very fundamental knowledge of responsive web design.
 * I learned basic patterns.
 * Understand how to use __@Media query__ and __Grids__ (mainstream in responsive web design).
 ---
 ***Task_5***                                  Finished 
-
+![Intro_to_JavaScript](https://github.com/Eugene50/kottans_frontend/blob/master/task_05/Intro_to_JavaScript.png)
 
 * Intro to *JS*. Understand syntax of programming language.
 * I learned main blocks of __JavaScript__ buildings.
