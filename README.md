@@ -1,13 +1,14 @@
 # kottans_frontend
   
-  ***Task_0***   Finished                   
+  ***Task_0***   Finished   
+  ![Git and GitHub](https://github.com/Eugene50/kottans_frontend/blob/master/task_00/Git%20and%20GitHub.png)
  
 * I have met with a Git and GitHub.
 * I have learned how to use Git.
 * I create my GitHub account and I tried to understand it as much as possible.
 ---
  ***Task_1***                                  Finished
- ![Linux, Command Line, HTTP Tools](https://github.com/Eugene50/kottans_frontend/blob/master/task_1/course_1.png)
+ ![Linux, Command Line, HTTP Tools](https://github.com/Eugene50/kottans_frontend/blob/master/task_01/course_1.png)
 
 * I learned powerful Linux command line.
 * Make configuring linux web server, was very exciting experience.
