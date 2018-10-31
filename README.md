@@ -1,6 +1,6 @@
 # kottans_frontend
   
-  ***Task_0***   Finished  
+ ***<pre>Task_0***                                        **Finished**     </pre>
   
   ![Git and GitHub](https://github.com/Eugene50/kottans_frontend/blob/master/task_00/Git%20and%20GitHub.png)
  
@@ -8,7 +8,7 @@
 * I have learned how to use Git.
 * I create my GitHub account and I tried to understand it as much as possible.
 ---
- ***Task_1***                                  Finished
+ ***<pre>Task_1***                                        **Finished**    </pre>
  
  ![Linux, Command Line, HTTP Tools](https://github.com/Eugene50/kottans_frontend/blob/master/task_01/course_1.png)
 
@@ -16,7 +16,7 @@
 * Make configuring linux web server, was very exciting experience.
 * Learned many interesting thing about **TCP/IP**, and **HTTP** protocol.
 ---
-***Task_2***                                Finished
+***<pre>Task_2***                                         **Finished**</pre>
  
  ![GitHub and Collaboration](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/GitHub%20%26%20Collaboration.png)
 
@@ -27,7 +27,7 @@
 
 ---
 
-***Task_3***                                  Finished
+***<pre>Task_3***                                         **Finished**</pre>
 
 ![Intro_to_HTML_and_CSS](https://github.com/Eugene50/kottans_frontend/blob/master/task_03/Intro_to_HTML_and_CSS.png)
 
@@ -36,7 +36,7 @@
 * Try to make some site page to use my knowledge from this task.
 ---
 
-***Task_4***                                  Finished
+***<pre>Task_4***                                         **Finished**</pre>
 
 ![Responsive_Web_Design_Fundamentals](https://github.com/Eugene50/kottans_frontend/blob/master/task_04/Responsive_Web_Design_Fundamentals.png)
 
@@ -44,7 +44,8 @@
 * I learned basic patterns.
 * Understand how to use __@Media query__ and __Grids__ (mainstream in responsive web design).
 ---
-***Task_5***                                  Finished 
+***<pre>Task_5***                                         **Finished**</pre>
+
 ![Intro_to_JavaScript](https://github.com/Eugene50/kottans_frontend/blob/master/task_05/Intro_to_JavaScript.png)
 
 * Intro to *JS*. Understand syntax of programming language.
