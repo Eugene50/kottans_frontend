@@ -40,6 +40,8 @@
 
 ![Responsive_Web_Design_Fundamentals](https://github.com/Eugene50/kottans_frontend/blob/master/task_04/Responsive_Web_Design_Fundamentals.png)
 
+![Flexbox Froggy](https://github.com/Eugene50/kottans_frontend/blob/master/task_04/FlexxBox_Froggy.png)
+
 * I got very fundamental knowledge of responsive web design.
 * I learned basic patterns.
 * Understand how to use __@Media query__ and __Grids__ (mainstream in responsive web design).
