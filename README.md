@@ -53,6 +53,18 @@
 * Intro to *JS*. Understand syntax of programming language.
 * I learned main blocks of __JavaScript__ buildings.
 * A lot of practice in coding and reading of the code. 
+---
+***<pre>DOM***                                               **Finished**</pre>
+
+![DOM](https://github.com/Eugene50/kottans_frontend/blob/master/task_06/DOM.png)
+
+![freecodecamp Algorithm Scripting Challenges](https://github.com/Eugene50/kottans_frontend/blob/master/task_06/Last_10_lessons_finished.png)
+
+Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
+
+* I have learned main structure of DOM 
+* Many knowledges about nodes
+* A good practice with a JavaScript and DOM 
 
 
 
