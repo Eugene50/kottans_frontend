@@ -76,6 +76,13 @@ Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
 
 ![](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_oop/CodeWars_progress.png)
 
+* Learned to work with objects.
+* Get to know this fantastic and mysterious "this"
+* Learned prototypes and inheritance
+---
+
+
+
 
 
 
