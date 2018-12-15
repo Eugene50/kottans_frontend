@@ -67,8 +67,14 @@ Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
 * I have learned main structure of DOM 
 * Many knowledges about nodes
 * A good practice with a JavaScript and DOM 
+---
+***<pre>Object Oriented***                                               **Finished**</pre>
 
+![Object Oriented](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_oop/Object_Oriented_JS.png)
 
+##CodeWars_progress
+
+![](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_oop/CodeWars_progress.png)
 
 
 
