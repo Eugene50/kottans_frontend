@@ -2,7 +2,7 @@
   
  ***<pre>Git and GitHub***                                        **Finished**     </pre>
   
-  ![Git and GitHub](https://github.com/Eugene50/kottans_frontend/blob/master/task_00/Git%20and%20GitHub.png)
+  ![Git and GitHub](https://github.com/Eugene50/kottans_frontend/blob/master/task_git_basics/Git%20and%20GitHub.png)
  
 * I have met with a Git and GitHub.
 * I have learned how to use Git.
@@ -10,7 +10,7 @@
 ---
  ***<pre>Linux CLI, and HTTP***                                        **Finished**    </pre>
  
- ![Linux, Command Line, HTTP Tools](https://github.com/Eugene50/kottans_frontend/blob/master/task_01/course_1.png)
+ ![Linux, Command Line, HTTP Tools](https://github.com/Eugene50/kottans_frontend/blob/master/task_linux_cli/linux_cli_1.png)
 
 * I learned powerful Linux command line.
 * Make configuring linux web server, was very exciting experience.
@@ -18,9 +18,9 @@
 ---
 ***<pre>Git Collaboration***                                         **Finished**</pre>
  
- ![GitHub and Collaboration](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/GitHub%20%26%20Collaboration.png)
+ ![GitHub and Collaboration](https://github.com/Eugene50/kottans_frontend/blob/master/task_git_collaboration/GitHub%20%26%20Collaboration.png)
 
-![What is Version Control](https://github.com/Eugene50/kottans_frontend/blob/master/task_02/What%20is%20Version%20Control.png)
+![What is Version Control](https://github.com/Eugene50/kottans_frontend/blob/master/task_git_collaboration/What%20is%20Version%20Control.png)
 
 * I confirmed my skill in Git and GitHub.
 * I know how to use the options of Git for good collaboration.
@@ -29,7 +29,7 @@
 
 ***<pre>Intro to HTML and CSS***                                         **Finished**</pre>
 
-![Intro_to_HTML_and_CSS](https://github.com/Eugene50/kottans_frontend/blob/master/task_03/Intro_to_HTML_and_CSS.png)
+![Intro_to_HTML_and_CSS](https://github.com/Eugene50/kottans_frontend/blob/master/task_html_css_intro/Intro_to_HTML_and_CSS.png)
 
 * My first deep intro to **HTML & CSS**.
 * I learned many interesting features of CSS and responsive design.
@@ -38,9 +38,9 @@
 
 ***<pre>Responsive Web Design***                                         **Finished**</pre>
 
-![Responsive_Web_Design_Fundamentals](https://github.com/Eugene50/kottans_frontend/blob/master/task_04/Responsive_Web_Design_Fundamentals.png)
+![Responsive_Web_Design_Fundamentals](https://github.com/Eugene50/kottans_frontend/blob/master/task_responsive_web_design/Responsive_Web_Design_Fundamentals.png)
 
-![Flexbox Froggy](https://github.com/Eugene50/kottans_frontend/blob/master/task_04/FlexxBox_Froggy.png)
+![Flexbox Froggy](https://github.com/Eugene50/kottans_frontend/blob/master/task_responsive_web_design/FlexxBox_Froggy.png)
 
 * I got very fundamental knowledge of responsive web design.
 * I learned basic patterns.
@@ -48,7 +48,9 @@
 ---
 ***<pre>JS Basics***                                         **Finished**</pre>
 
-![Intro_to_JavaScript](https://github.com/Eugene50/kottans_frontend/blob/master/task_05/Intro_to_JavaScript.png)
+![Intro_to_JavaScript](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_basics/Intro_to_JavaScript.png)
+
+![freecodecamp Algorithm Scripting Challenges](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_basics/11th_lesson_finished.png)
 
 * Intro to *JS*. Understand syntax of programming language.
 * I learned main blocks of __JavaScript__ buildings.
@@ -56,9 +58,9 @@
 ---
 ***<pre>DOM***                                               **Finished**</pre>
 
-![DOM](https://github.com/Eugene50/kottans_frontend/blob/master/task_06/DOM.png)
+![DOM](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_dom/DOM.png)
 
-![freecodecamp Algorithm Scripting Challenges](https://github.com/Eugene50/kottans_frontend/blob/master/task_06/Last_10_lessons_finished.png)
+![freecodecamp Algorithm Scripting Challenges](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_dom/Last_10_lessons_finished.png)
 
 Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
 
