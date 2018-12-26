@@ -62,7 +62,7 @@
 
 ![freecodecamp Algorithm Scripting Challenges](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_dom/Last_10_lessons_finished.png)
 
-Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
+Reviewed and approved by @AMashoshyna  https://github.com/Eugene50/Test
 
 * I have learned main structure of DOM 
 * Many knowledges about nodes
@@ -82,7 +82,7 @@ Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
 ---
 ## A Tiny JS World
 
-Reviewed and approved by @<OleksiyRudenko>   https://github.com/Eugene50/a-tiny-JS-world
+Reviewed and approved by @OleksiyRudenko   https://github.com/Eugene50/a-tiny-JS-world
 
 
 
