@@ -72,7 +72,7 @@ Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
 
 ![Object Oriented](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_oop/Object_Oriented_JS.png)
 
-##CodeWars_progress
+## CodeWars_progress
 
 ![](https://github.com/Eugene50/kottans_frontend/blob/master/task_js_oop/CodeWars_progress.png)
 
@@ -80,6 +80,9 @@ Reviewed and approved by @<AMashoshyna>  https://github.com/Eugene50/Test
 * Get to know this fantastic and mysterious "this"
 * Learned prototypes and inheritance
 ---
+## A Tiny JS World
+
+Reviewed and approved by @<OleksiyRudenko>   https://github.com/Eugene50/a-tiny-JS-world
 
 
 
