@@ -84,6 +84,10 @@ Reviewed and approved by @AMashoshyna  https://github.com/Eugene50/Test
 
 Reviewed and approved by @OleksiyRudenko   https://github.com/Eugene50/a-tiny-JS-world
 
+## Object Oriented JS
+
+Reviewed and approved by @OleksiyRudenko   https://github.com/Eugene50/Frogger_OOP
+
 
 
 
