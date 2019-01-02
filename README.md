@@ -79,7 +79,11 @@ Reviewed and approved by @AMashoshyna  https://github.com/Eugene50/Test
 * Learned to work with objects.
 * Get to know this fantastic and mysterious "this"
 * Learned prototypes and inheritance
----
+
+## DOM
+
+Reviewed and approved by	@AMashoshyna     https://github.com/Eugene50/Js_DOM
+
 ## A Tiny JS World
 
 Reviewed and approved by @OleksiyRudenko   https://github.com/Eugene50/a-tiny-JS-world
