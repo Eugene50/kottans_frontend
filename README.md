@@ -92,6 +92,10 @@ Reviewed and approved by @OleksiyRudenko   https://github.com/Eugene50/a-tiny-JS
 
 Reviewed and approved by @OleksiyRudenko   https://github.com/Eugene50/Frogger_OOP
 
+## Memory pair game
+
+Reviewed and approved by @zonzujiro        https://github.com/Eugene50/memory_game
+
 
 
 
